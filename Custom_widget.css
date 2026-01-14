@@ -4,8 +4,8 @@
 .s9t60i1 {
   background-image:
     linear-gradient(
-      rgba(255, 255, 255, 0.88),
-      rgba(255, 255, 255, 0.88)
+      rgba(255, 255, 255, 0.6),
+      rgba(255, 255, 255, 0.6)
     ),
     url("https://png.pngtree.com/png-clipart/20230821/original/pngtree-tree-icon-vector-isolated-design-black-design-shape-vector-png-image_10576570.png");
 
@@ -13,26 +13,6 @@
   background-position: center 75%, center 75%;
   background-size: cover, 360px auto;
   background-attachment: scroll, fixed;
-}
-
-
-/* ===========================================
-   CHAT – BARVA BUBLIN A TEXTU
-=========================================== */
-
-
-._11kfxpg0 {
-    background-color: #589736;
-    color: #ffffff;
-    font-family: var(--_1bof89na);
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    max-width: 100%;
-    font-size: 14px;
-    line-height: 20px;
-    border-radius: 10px;
-    width: fit-content;
 }
 
 /* ===========================================
