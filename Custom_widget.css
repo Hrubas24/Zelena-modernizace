@@ -1,0 +1,16 @@
+/* ===========================================
+   CHAT – BACKGROUND OBRÁZEK
+=========================================== */
+.s9t60i1 {
+  background-image:
+    linear-gradient(
+      rgba(255, 255, 255, 0.88),
+      rgba(255, 255, 255, 0.88)
+    ),
+    url("https://www.shutterstock.com/image-vector/highperformance-liquid-chromatography-hplc-machine-600nw-2251283969.jpg");
+
+  background-repeat: no-repeat, no-repeat;
+  background-position: center 75%, center 75%;
+  background-size: cover, 360px auto;
+  background-attachment: scroll, fixed;
+}
