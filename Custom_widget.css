@@ -14,3 +14,39 @@
   background-size: cover, 360px auto;
   background-attachment: scroll, fixed;
 }
+
+
+/* ===========================================
+   CHAT – BARVA BUBLIN A TEXTU
+=========================================== */
+
+
+._11kfxpg0 {
+    background-color: #589736;
+    color: #ffffff;
+    font-family: var(--_1bof89na);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    font-size: 14px;
+    line-height: 20px;
+    border-radius: 10px;
+    width: fit-content;
+}
+
+/* ===========================================
+   CHAT – BARVA BUTTONS
+=========================================== */
+
+._1q15b0b1 {
+    border-radius: 8px;
+    color: #1a2814;
+    background-color: #c4e9b7;
+    line-height: 20px;
+    padding: 7px 12px 6px;
+    white-space: normal;
+    word-break: break-word;
+    text-align: left;
+    height: fit-content;
+}
